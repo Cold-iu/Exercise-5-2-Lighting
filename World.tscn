@@ -5,7 +5,7 @@
 [ext_resource type="Script" path="res://Pivot.gd" id="3_77bok"]
 
 [sub_resource type="VoxelGIData" id="VoxelGIData_gxa0l"]
-_data = {}
+use_two_bounces = false
 
 [node name="World" type="Node3D"]
 
